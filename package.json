@@ -1,0 +1,14 @@
+{
+  "name": "simple-login-api",
+  "author": "Bhargav Das Gupta",
+  "license": "MIT",
+  "packageManager": "yarn@3.4.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
