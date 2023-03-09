@@ -5,7 +5,7 @@
   "packageManager": "yarn@3.4.1",
   "main": "server.js",
   "scripts": {
-    "start": "node",
+    "start": "node server",
     "dev": "nodemon"
   },
   "dependencies": {
