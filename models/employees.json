@@ -1,8 +1,16 @@
-
-{
+[
+  {
   "id": 1,
   "name": {
     "first": "Bhargav",
     "last": "Das Gupta"
   }
+},
+  {
+  "id": 2,
+  "name": {
+    "first": "Mainak",
+    "last": "Sen"
+  }
 }
+]
